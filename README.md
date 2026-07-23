@@ -83,11 +83,20 @@ My work focuses on turning research ideas into reliable, scalable AI systems.
 </p>
 
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yazdanparasthesam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yazdanparasthesam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=flat&no-frame=true"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ## 💬 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yazdanparasthesam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AlexHuc&icon=1&color=3)](https://visitcount.itsvg.in)
