@@ -66,24 +66,16 @@ My work focuses on turning research ideas into reliable, scalable AI systems.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=yazdanparasthesam&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazdanparasthesam&theme=tokyo-night" />
 </p>
 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yazdanparasthesam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yazdanparasthesam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
