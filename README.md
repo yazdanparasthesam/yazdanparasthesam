@@ -33,17 +33,8 @@ My work focuses on turning research ideas into reliable, scalable AI systems.
 - 💼 [LinkedIn](https://www.linkedin.com/in/hesam-yazdanparast-383252a4/)
 - 📧 [Email](mailto:yazdanparasthesamm@gmail.com)
 
-
-
-## 🤠 About Me:
-- 💻 I'm a passionate Mathematician with experience in Data Engineering and Machine Learning
-- 🤝 Interested in collaborating on social impact projects
-- 📚 Currently learning Statistics and Machine Learning
-- 💬 Drop me a message if you think we can build something together
-- ⚡ Fun fact: I love making new friends
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/hesam-yazdanparast-383252a4/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesam-yazdanparast-383252a4/)
 
 ## 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
