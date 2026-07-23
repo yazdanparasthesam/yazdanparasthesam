@@ -64,11 +64,22 @@ My work focuses on turning research ideas into reliable, scalable AI systems.
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-%23ffffff.svg?style=for-the-badge&logo=chroma&logoColor=white)
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&show_icons=true&theme=transparent)
+## 📊 GitHub Analytics
 
-## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=flat)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdanparasthesam&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=flat&no-frame=true"/>
+</p>
 
 ## 💬 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
