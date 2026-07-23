@@ -1,16 +1,23 @@
 # Hi, I'm Hesam 👋
 
-AI/ML Engineer passionate about building intelligent systems.
+### AI/ML Engineer passionate about building intelligent systems.
 
-🌐 **[Visit my personal website](https://hesam-yazdanparast.vercel.app/)**
+I build production-grade intelligent systems at the intersection of **Machine Learning, Deep Learning, LLMs, Agentic AI, and MLOps**.
+
+My work focuses on turning research ideas into reliable, scalable AI systems.
+
+🌐 **Portfolio:** [hesam-yazdanparast.vercel.app](https://hesam-yazdanparast.vercel.app)
 
 ## 🚀 About Me
 
-- 🤖 AI/ML Engineer
+- 🤖 Senior AI / Machine Learning Engineer
 - 🧠 Deep Learning & Machine Learning
-- 🧩 Agentic AI and RAG Systems
-- 🔐 AI-powered Cybersecurity
-- 🏆 MLZoomcamp 2025 — Rank #6 on the leaderboard
+- 🧩 LLM Applications, RAG & Agentic AI
+- 🛡️ AI-powered Cybersecurity
+- 👁️ Computer Vision
+- 🎯 Recommendation Systems
+- ⚙️ MLOps & Production AI Systems
+- 🏆 MLZoomcamp 2025 — Rank #6
 
 🏆 [View my MLZoomcamp 2025 leaderboard ranking](https://courses.datatalks.club/ml-zoomcamp-2025/leaderboard)
 
