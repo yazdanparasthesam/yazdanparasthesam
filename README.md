@@ -65,10 +65,10 @@ My work focuses on turning research ideas into reliable, scalable AI systems.
 ![Chroma](https://img.shields.io/badge/Chroma-%23ffffff.svg?style=for-the-badge&logo=chroma&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazdanparasthesam&show_icons=true&theme=transparent)
 
 ## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=yazdanparasthesam&theme=flat)
 
 ## 💬 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
